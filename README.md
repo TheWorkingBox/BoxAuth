@@ -1,5 +1,5 @@
 
-<img width="1280" height="320" alt="bannerforgithub" src="https://github.com/user-attachments/assets/9dcdfe44-b3d2-480e-8c92-533c100500dc" />
+[<img width="1280" height="320" alt="bannerforgithub" src="https://github.com/user-attachments/assets/9dcdfe44-b3d2-480e-8c92-533c100500dc" />](https://sessioncore.github.io)
 
 ## Features
 
